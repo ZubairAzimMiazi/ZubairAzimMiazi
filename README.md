@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZubairAzimMiazi&theme=onedark&count_private=true&show_icons=true" width="420px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairAzimMiazi&layout=compact&count_private=true&theme=onedark&hide=jupyter%20notebook,css,php" height="165px" width="375px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairAzimMiazi&layout=compact&count_private=true&theme=onedark&count_private=true&show_icons=true" height="165px" width="375px" />
 </a>
